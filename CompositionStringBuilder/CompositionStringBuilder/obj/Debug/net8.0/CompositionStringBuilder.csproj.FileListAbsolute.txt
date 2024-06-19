@@ -1,0 +1,14 @@
+C:\Projeto C#\CompositionStringBuilder\CompositionStringBuilder\bin\Debug\net8.0\CompositionStringBuilder.exe
+C:\Projeto C#\CompositionStringBuilder\CompositionStringBuilder\bin\Debug\net8.0\CompositionStringBuilder.deps.json
+C:\Projeto C#\CompositionStringBuilder\CompositionStringBuilder\bin\Debug\net8.0\CompositionStringBuilder.runtimeconfig.json
+C:\Projeto C#\CompositionStringBuilder\CompositionStringBuilder\bin\Debug\net8.0\CompositionStringBuilder.dll
+C:\Projeto C#\CompositionStringBuilder\CompositionStringBuilder\bin\Debug\net8.0\CompositionStringBuilder.pdb
+C:\Projeto C#\CompositionStringBuilder\CompositionStringBuilder\obj\Debug\net8.0\CompositionStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto C#\CompositionStringBuilder\CompositionStringBuilder\obj\Debug\net8.0\CompositionStringBuilder.AssemblyInfoInputs.cache
+C:\Projeto C#\CompositionStringBuilder\CompositionStringBuilder\obj\Debug\net8.0\CompositionStringBuilder.AssemblyInfo.cs
+C:\Projeto C#\CompositionStringBuilder\CompositionStringBuilder\obj\Debug\net8.0\CompositionStringBuilder.csproj.CoreCompileInputs.cache
+C:\Projeto C#\CompositionStringBuilder\CompositionStringBuilder\obj\Debug\net8.0\CompositionStringBuilder.dll
+C:\Projeto C#\CompositionStringBuilder\CompositionStringBuilder\obj\Debug\net8.0\refint\CompositionStringBuilder.dll
+C:\Projeto C#\CompositionStringBuilder\CompositionStringBuilder\obj\Debug\net8.0\CompositionStringBuilder.pdb
+C:\Projeto C#\CompositionStringBuilder\CompositionStringBuilder\obj\Debug\net8.0\CompositionStringBuilder.genruntimeconfig.cache
+C:\Projeto C#\CompositionStringBuilder\CompositionStringBuilder\obj\Debug\net8.0\ref\CompositionStringBuilder.dll
